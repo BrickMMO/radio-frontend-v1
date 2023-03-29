@@ -2,7 +2,9 @@
 
 A radio station for a LEGO™ city using LEGO™ brick, a Pixy2 AI camera, and ChatGPT.
 
-## Requirements:
+***
+
+## Repository Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
 * [BrickMMO GRadioPS](https://radio.brickmmo.com/)
