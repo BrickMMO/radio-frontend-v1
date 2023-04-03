@@ -1,6 +1,6 @@
 # BrickMMO Radio
 
-A radio station for a LEGO™ city using LEGO™ brick, a Pixy2 AI camera, and ChatGPT.
+An AI driven radio station for the BrickMMO Smart City built with LEGO® bricks.
 
 ***
 
