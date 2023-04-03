@@ -7,7 +7,7 @@ A radio station for a LEGO™ city using LEGO™ brick, a Pixy2 AI camera, and C
 ## Repository Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
-* [BrickMMO GRadioPS](https://radio.brickmmo.com/)
+* [BrickMMO Radio](https://radio.brickmmo.com/)
 * [Pixy Documentation](https://docs.pixycam.com/wiki/doku.php)
 * [Python Library for Pixy](https://github.com/KWSmit/Pixy_ev3dev)
 
