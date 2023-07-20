@@ -1,16 +1,9 @@
-# BrickMMO Radio
+* Front end for BrickMMO Radio, started by Shavin Singh and Andrew Barker.
 
-An AI driven radio station for the BrickMMO Smart City built with LEGO® bricks.
+This portion of the app receives the audio stream from icecast, along with data from the 'Reporter' CMS.
+The Reporter CMS is designed for reporters to generate content to be parsed by a 'Producer' CMS, which then passes
+approved reporter submissions to openai for content generation based on the submitted segment. The data represented here
+is a combination of segment summaries, and the actual audio generated from the prompts, along with musical content.
 
-***
-
-## Repository Resources
-
-* [BrickMMO](https://www.brickmmo.com/)
-* [BrickMMO Radio](https://radio.brickmmo.com/)
-* [Pixy Documentation](https://docs.pixycam.com/wiki/doku.php)
-* [Python Library for Pixy](https://github.com/KWSmit/Pixy_ev3dev)
-
-<a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
-</a>
+Imported text data from the Reporter CMS is retrieved in the SegmentData and HostData components, and the audio via the
+AudioPlayer component.
